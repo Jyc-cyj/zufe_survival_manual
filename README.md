@@ -4,5 +4,6 @@
 
 如果有同学对本手册内容持有怀疑意见，认为某篇内容作者过于片面或者不属实，请email \`1085030468@zufe.edu.cn\`，我们随后会尽力作出修改。
 
-<figure><img src="https://www.zufe.edu.cn/images/logo.svg" alt=""><figcaption></figcaption></figure>
 
+
+<figure><img src="https://www.zufe.edu.cn/__local/A/78/9C/A90ADCB9A8EC37167136E052A4C_9FDE930E_11609.jpg" alt=""><figcaption></figcaption></figure>
