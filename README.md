@@ -2,7 +2,7 @@
 
 《浙江财经大学 | 生存手册》于2025年由一群财大本科生写就，由于原作者团队主要属于出国攻读硕博群体，本手册在国内深造、国内就业等方面存在欠缺。本项目旨在将它制作成gitbook发布，并长期维护该项目，希望能给未来的zufer带来微小的帮助，感谢本手册原版的作者们！特别鸣谢本手册的发起人！
 
-如果有同学对本手册内容持有怀疑意见，认为某篇内容作者过于片面或者不属实，请联系`1085030468@zufe.edu.cn 或 1085030468@gmail.com，`我们随后会尽力作出修改。
+如果有同学对本手册内容持有怀疑意见，认为某篇内容作者过于片面或者不属实，请联系`1085030468@zufe.edu.cn 或 1085030468@gmail.com`，我们随后会尽力作出修改。
 
 欢迎各位优秀的同学，加入到项目团队中，我们将不定期举行团建活动，以讨论学校最新的信息。
 
@@ -10,4 +10,8 @@
 
 
 
-<figure><img src="https://www.zufe.edu.cn/__local/A/78/9C/A90ADCB9A8EC37167136E052A4C_9FDE930E_11609.jpg" alt=""><figcaption></figcaption></figure>
+<figure>
+    <img width=auto; src="https://www.zufe.edu.cn/__local/A/78/9C/A90ADCB9A8EC37167136E052A4C_9FDE930E_11609.jpg" alt="zufe_logo">
+    <figcaption>浙江财经大学</figcaption>
+</figure>
+
