@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [简介](README.md)
   
 ## 序言
 
-* [Prologue](prologue.md)
+* [序-1](prologue.md)
