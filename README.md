@@ -7,11 +7,9 @@
 欢迎各位优秀的同学，加入到项目团队中，我们将不定期举行团建活动，以讨论学校最新的信息。
 
 注：本手册参考各学校手册开源项目，如有内容违反相应规定，请联系上述邮箱，我们将第一时间改正。同时，特别感谢各学校将项目开源，愿共同改善国内教育环境。
-
-
+<br/>
 
 <figure>
     <img width=auto; src="https://www.zufe.edu.cn/__local/A/78/9C/A90ADCB9A8EC37167136E052A4C_9FDE930E_11609.jpg" alt="zufe_logo">
-    <figcaption>浙江财经大学</figcaption>
 </figure>
 
